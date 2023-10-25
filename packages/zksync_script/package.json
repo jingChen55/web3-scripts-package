@@ -19,7 +19,7 @@
   "dependencies": {
     "@ethersproject/logger": "^5.7.0",
     "axios": "^1.4.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "dayjs": "^1.11.7",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.2",
